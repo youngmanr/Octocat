@@ -1,1 +1,3 @@
 Explain what the "upstream" remote is usually used for, in your own words.
+
+A git "upstream" remote is repository on a network or internet that is used by developers collaborating on a project.
